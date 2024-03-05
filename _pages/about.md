@@ -1,14 +1,57 @@
 ---
 permalink: /
-title: "About"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+## About
 
-Here?
+I am a PhD candidate at the Australian National University supervised by Kee Siong Ng, Hanna Kurniawati, and Marcus Hutter. 
+
+My long term research goal is the development of a generally capable, artificial intelligence agent. I primarily investigate this problem through the lens of sequential decision making under uncertainty and reinforcement learning (RL). Recently I have focused on building theoretically sound yet practical approximations of the <a href="https://arxiv.org/pdf/0712.3329.pdf">most intelligent</a> agent <a href="https://en.wikipedia.org/wiki/AIXI">AIXI</a>. 
+
+As AI and machine learning systems see wider adoption, I am interested in issues of AI safety and ethics surrounding the increased interaction with humans and their data and have investigated ensuring differential privacy for RL systems.
+
+
+### Research Interests
+Universal AI, Reinforcement Learning, Online Learning, Planning, Differential Privacy.
+
+
+<!-- I currently also work part-time as a Data Scientist for <a href="https://www.diversityarrays.com/">DArT</a> developing machine learning algorithms for genome wide discovery of DNA signatures linked to agricultural traits. -->
+<!-- <a href="https://arxiv.org/pdf/0712.3329.pdf">most intelligent</a> agent  -->
+
+
+<!-- I am a PhD student at the Australian National University where I investigate practical yet theoretically sound approximations of the <a href="https://arxiv.org/pdf/0712.3329.pdf">most intelligent</a> agent <a href="https://en.wikipedia.org/wiki/AIXI">AIXI</a>. I am supervised by Kee Siong Ng, Hanna Kurniawati, and Marcus Hutter.
+
+I also currently work part-time as a Data Scientist for [Diversity Arrays Technology](https://www.diversityarrays.com/) developing machine learning algorithms for genome wide discovery of DNA signatures linked to agricultural traits.
+
+
+## Research Interests
+Broadly speaking, I am interested in the theoretical and practical design of a generally capable, artificial intelligence agent. I have investigated this topic through the lens of sequential decision making under uncertainty. More specifically I have focused on developing practical and theoretically sound approximations of AIXI, a Bayesian Reinforcement Learning agent that is theoretically optimal in all computable environments, through the use of tools from online learning, data compression, and knowledge representation and reasoning. As AI and machine learning systems see wider adoption, I am also interested in issues of AI safety and ethics surrounding the increased interaction with humans and their data. So far I have considered issues surrounding data privacy in  -->
+
+
+
+
+
+<!-- 
+I am a PhD student at the Australian National University. I am interested in the problem of designing a generally capable, artificial intelligence agent. 
+
+I have investigated this topic through the lens of sequential decision making and reinforcement learning. My primary focus has been on developing practical and theoretically sound approximations of \href{https://arxiv.org/pdf/0712.3329.pdf}{AIXI}, an agent that is theoretically optimal in all computable environments, through the use of tools from online learning, data compression, and knowledge representation and reasoning. 
+As AI and machine learning systems see wider adoption, I am also interested in the ethical issues surrounding the increased interaction with humans and their data. So far, I have considered issues surrounding data privacy in RL systems. 
+
+
+I currently also work part-time as a Data Scientist for [Diversity Arrays Technology](https://www.diversityarrays.com/) developing novel machine learning and statistical algorithms for genome wide discovery of DNA signatures linked to agricultural traits.
+
+
+
+
+\textbf{Research Interests:} Artificial Intelligence, Reinforcement Learning, Decision Making Under Uncertainty, Online Learning, Bayesian Inference, Non-stationary Sequence Prediction, Open-Ended Learning, Data Compression, Planning, Algorithmic Information Theory, Privacy, AI Ethics. 
+
+
+ -->
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
