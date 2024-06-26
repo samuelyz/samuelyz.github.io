@@ -21,8 +21,9 @@ author_profile: true
 - Published in AAAI, 2024
 <!-- - Topics: Universal AI, Online learning, Model misspecification, data compression, state abstraction -->
 
-[Privacy Preserving Reinforcement Learning for Population Processes](/files/DPRL.pdf)
-- Under review, 2024
+<!-- [Privacy Preserving Reinforcement Learning for Population Processes](/files/DPRL.pdf) -->
+<a href="https://arxiv.org/abs/2406.17649">Privacy Preserving Reinforcement Learning for Population Processes </a>
+- Pre-print (under review), 2024
 <!-- - Topics: Differential privacy, Pufferfish privacy, reinforcement learning -->
 
 <a href="https://arxiv.org/abs/2210.06917">A Direct Approximation of AIXI Using Logical State Abstractions </a>
